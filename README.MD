@@ -12,7 +12,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [CANVA](https://www.canva.com/app/)
-- [Keynote]
+- [Keynote](https://www.apple.com/br/keynote/)
 
 ## 🧠 Prompts
 

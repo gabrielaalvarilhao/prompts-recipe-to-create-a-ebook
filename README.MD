@@ -12,7 +12,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [CANVA](https://www.canva.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Keynote]
 
 ## 🧠 Prompts
 
@@ -33,5 +33,5 @@ Canva：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens e diagramação geradas via Canva e PowerPoint
+- Imagens e diagramação geradas via Canva e Keynote
 
